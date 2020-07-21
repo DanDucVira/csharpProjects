@@ -1,0 +1,10 @@
+D:\CsharpProjects\contactListApp\contactListApp\bin\Debug\contactListApp.exe.config
+D:\CsharpProjects\contactListApp\contactListApp\bin\Debug\contactListApp.exe
+D:\CsharpProjects\contactListApp\contactListApp\bin\Debug\contactListApp.pdb
+D:\CsharpProjects\contactListApp\contactListApp\obj\Debug\contactListApp.csprojAssemblyReference.cache
+D:\CsharpProjects\contactListApp\contactListApp\obj\Debug\contactListApp.ContactListApp.resources
+D:\CsharpProjects\contactListApp\contactListApp\obj\Debug\contactListApp.Properties.Resources.resources
+D:\CsharpProjects\contactListApp\contactListApp\obj\Debug\contactListApp.csproj.GenerateResource.cache
+D:\CsharpProjects\contactListApp\contactListApp\obj\Debug\contactListApp.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\contactListApp\contactListApp\obj\Debug\contactListApp.exe
+D:\CsharpProjects\contactListApp\contactListApp\obj\Debug\contactListApp.pdb
