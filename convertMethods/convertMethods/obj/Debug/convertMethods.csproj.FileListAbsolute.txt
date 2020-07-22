@@ -1,0 +1,10 @@
+D:\CsharpProjects\convertMethods\convertMethods\bin\Debug\convertMethods.exe.config
+D:\CsharpProjects\convertMethods\convertMethods\bin\Debug\convertMethods.exe
+D:\CsharpProjects\convertMethods\convertMethods\bin\Debug\convertMethods.pdb
+D:\CsharpProjects\convertMethods\convertMethods\obj\Debug\convertMethods.csprojAssemblyReference.cache
+D:\CsharpProjects\convertMethods\convertMethods\obj\Debug\convertMethods.Form1.resources
+D:\CsharpProjects\convertMethods\convertMethods\obj\Debug\convertMethods.Properties.Resources.resources
+D:\CsharpProjects\convertMethods\convertMethods\obj\Debug\convertMethods.csproj.GenerateResource.cache
+D:\CsharpProjects\convertMethods\convertMethods\obj\Debug\convertMethods.csproj.CoreCompileInputs.cache
+D:\CsharpProjects\convertMethods\convertMethods\obj\Debug\convertMethods.exe
+D:\CsharpProjects\convertMethods\convertMethods\obj\Debug\convertMethods.pdb
